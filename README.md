@@ -24,7 +24,7 @@ We will be investigating the best area in Pittsburgh to do <b>hard drugs</b> (bu
 #### Our single metric will be "Drug Points"
 
 This metric will be used to rate all of the neighborhoods in the data set based off one linear scale. This number will be calculated using our scientifically perfect formula: 
-> ((1/2 x Number of people who make above 200K) + (2 x Number of drug possesion charges)) x (Average of Arrests / Arrests within that neighborhood)
+> **100 x (0.5 x Number of households which make above 200K) + (4 x Number of drug possesion charges)) / (1.5 x Arrests within that neighborhood)**
 
 ---
 
