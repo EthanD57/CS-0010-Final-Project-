@@ -30,7 +30,7 @@ This metric will be used to rate all of the neighborhoods in the data set based 
 
 # Quick Warning!
 
-This project uses git large file system in order to store our datasets. In order to download the files, use: 
+This project uses git large file storage in order to store our datasets. In order to download the files, use: 
 
 `$ git lfs pull`
 
