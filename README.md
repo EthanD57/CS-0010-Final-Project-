@@ -1,4 +1,4 @@
-# Team: Pitt is Garbage
+# Team: Pitt is Garbage A.K.A. Group 42
 
 ## Group Members:
 <br>Greyson Barsotti - gjb46@pitt.edu
